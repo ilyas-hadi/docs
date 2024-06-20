@@ -98,6 +98,7 @@ If your country is not on this list, then we aren't currently able to reliably d
 <li>New Zealand</li>
 <li>Nigeria</li>
 <li>Norway</li>
+<li>Pakistan</li>
 <li>Philippines</li>
 <li>Poland</li>
 <li>Portugal</li>
